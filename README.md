@@ -11,7 +11,7 @@ http://linkis.com/www.cs.utexas.edu/us/5WXeC
 http://www.enterpriseintegrationpatterns.com/docs/IEEE_Software_Design_2PC.pdf
 
 ### Donald E. Knuth: Structured programming with goto statement
-N/A
+http://www.clifford.at/cfun/cliffdev/p261-knuth.pdf
 
 ### C. A. R. Hoare: Communicating Sequential Processes
 http://spinroot.com/courses/summer/Papers/hoare_1978.pdf
