@@ -1,7 +1,10 @@
 # bookmarks
 Bookmarks to IT articles worth reading more than once.
 
-### E.W. Dijkstra Archive: On the reliability of programs. (EWD303)
+### E.W. Dijkstra: Why numbering should start at zero (& why half-open intervals). (EWD831)
+http://www.cs.utexas.edu/users/EWD/ewd08xx/EWD831.PDF
+
+### E.W. Dijkstra: On the reliability of programs. (EWD303)
 http://linkis.com/www.cs.utexas.edu/us/5WXeC
 
 ### Your Coffee Shop Doesn’t Use Two-Phase Commit (queueing and async)
