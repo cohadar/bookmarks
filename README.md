@@ -4,6 +4,10 @@ Bookmarks to IT papers/articles worth reading more than once.
 ### [1948] C.E. SHANNON: A Mathematical Theory of Communication
 http://worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Communication.pdf
 
+### [1968] Ken Thompson: Programming Techniques: Regular expression search algorithm 
+https://www.fing.edu.uy/inco/cursos/intropln/material/p419-thompson.pdf
+(also https://swtch.com/~rsc/regexp/regexp1.html)
+
 ### [1974] Donald E. Knuth: Structured programming with goto statement
 http://www.clifford.at/cfun/cliffdev/p261-knuth.pdf
 
