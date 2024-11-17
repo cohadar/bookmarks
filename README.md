@@ -27,3 +27,6 @@ http://www.enterpriseintegrationpatterns.com/docs/IEEE_Software_Design_2PC.pdf
 ### [2011] 10 java logging tips (applicable in any language)
 http://www.javacodegeeks.com/2011/01/10-tips-proper-application-logging.html
 
+### [2014] Torturing Databases for Fun and Profit
+https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-zheng_mai.pdf
+
