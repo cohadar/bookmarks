@@ -18,6 +18,9 @@ http://spinroot.com/courses/summer/Papers/hoare_1978.pdf
 http://www.cs.utexas.edu/users/EWD/ewd08xx/EWD831.PDF
 (anything by Dijkstra really: https://en.wikiquote.org/wiki/Edsger_W._Dijkstra)
 
+### [1999] Erik Naggum: The Long, Painful History of Time
+https://naggum.no/lugm-time.html
+
 ### [2002] Paul Graham: The Roots of Lisp
 http://languagelog.ldc.upenn.edu/myl/llog/jmc.pdf
 
