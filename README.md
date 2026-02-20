@@ -11,6 +11,9 @@ https://www.fing.edu.uy/inco/cursos/intropln/material/p419-thompson.pdf
 ### [1974] Donald E. Knuth: Structured programming with goto statement
 http://www.clifford.at/cfun/cliffdev/p261-knuth.pdf
 
+### [1977] John Backus: Can Programming Be Liberated from the von Neumann Style?
+https://cse.msu.edu/~cse452/Readings/backus.pdf
+
 ### [1978] C. A. R. Hoare: Communicating Sequential Processes
 http://spinroot.com/courses/summer/Papers/hoare_1978.pdf
 
