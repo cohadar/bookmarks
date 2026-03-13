@@ -21,11 +21,20 @@ http://spinroot.com/courses/summer/Papers/hoare_1978.pdf
 http://www.cs.utexas.edu/users/EWD/ewd08xx/EWD831.PDF
 (anything by Dijkstra really: https://en.wikiquote.org/wiki/Edsger_W._Dijkstra)
 
+### [1995] The Linux Bootdisk HOWTO
+https://tldp.org/HOWTO/Bootdisk-HOWTO/
+
 ### [1999] Erik Naggum: The Long, Painful History of Time
 https://naggum.no/lugm-time.html
 
+### [2000] From PowerUp To Bash Prompt HOWTO
+https://tldp.org/HOWTO/From-PowerUp-To-Bash-Prompt-HOWTO.html
+
 ### [2002] Paul Graham: The Roots of Lisp
 http://languagelog.ldc.upenn.edu/myl/llog/jmc.pdf
+
+### [2003] The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)
+https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
 
 ### [2005] Your Coffee Shop Doesn’t Use Two-Phase Commit (queueing and async)
 http://www.enterpriseintegrationpatterns.com/docs/IEEE_Software_Design_2PC.pdf
@@ -35,7 +44,4 @@ http://www.javacodegeeks.com/2011/01/10-tips-proper-application-logging.html
 
 ### [2014] Torturing Databases for Fun and Profit
 https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-zheng_mai.pdf
-
-### [2003] The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)
-https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
 
