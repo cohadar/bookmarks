@@ -22,6 +22,15 @@ http://worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Commun
 ### [1949] C.E. Shannon: Communication Theory of Secrecy Systems
 https://archive.org/download/bstj28-4-656/bstj28-4-656.pdf
 
+### [1950] Alan M. Turing: Computing Machinery and Intelligence
+https://courses.cs.umbc.edu/471/papers/turing.pdf
+
+### [1950] Richard W. Hamming: Error Detecting and Error Correcting Codes
+https://archive.org/download/bstj29-2-147/bstj29-2-147.pdf
+
+### [1951] Stephen C. Kleene: Representation of Events in Nerve Nets and Finite Automata (RAND RM-704; republished 1956 in Automata Studies)
+https://www.rand.org/pubs/research_memoranda/RM704.html
+
 ### [1960] John McCarthy: Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I
 http://jmc.stanford.edu/articles/recursive/recursive.pdf
 
