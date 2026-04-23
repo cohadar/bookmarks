@@ -34,12 +34,27 @@ https://www.rand.org/pubs/research_memoranda/RM704.html
 ### [1960] John McCarthy: Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I
 http://jmc.stanford.edu/articles/recursive/recursive.pdf
 
+### [1962] C. A. R. Hoare: Quicksort
+https://www.cs.ox.ac.uk/files/6226/H2006%20-%20Historic%20Quicksort.pdf
+
+### [1965] E. W. Dijkstra: Solution of a Problem in Concurrent Programming Control
+https://rust-class.org/static/classes/class19/dijkstra.pdf
+
+### [1966] Peter J. Landin: The Next 700 Programming Languages
+https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/landin-next-700.pdf
+
 ### [1968] Ken Thompson: Programming Techniques: Regular expression search algorithm
 https://www.oilshell.org/archive/Thompson-1968.pdf
 (also https://swtch.com/~rsc/regexp/regexp1.html)
 
 ### [1968] E. W. Dijkstra: Go To Statement Considered Harmful
 https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf
+
+### [1968] Melvin E. Conway: How Do Committees Invent? (Conway's Law)
+http://www.melconway.com/Home/pdf/committees.pdf
+
+### [1969] C. A. R. Hoare: An Axiomatic Basis for Computer Programming
+https://www.cs.cmu.edu/~crary/819-f09/Hoare69.pdf
 
 ### [1970] E. F. Codd: A Relational Model of Data for Large Shared Data Banks
 https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf
