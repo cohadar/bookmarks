@@ -5,13 +5,13 @@ Bookmarks to IT papers/articles worth reading more than once.
 http://worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Communication.pdf
 
 ### [1968] Ken Thompson: Programming Techniques: Regular expression search algorithm
-https://www.fing.edu.uy/inco/cursos/intropln/material/p419-thompson.pdf
+https://www.oilshell.org/archive/Thompson-1968.pdf
 (also https://swtch.com/~rsc/regexp/regexp1.html)
 
 ### [1974] Donald E. Knuth: Structured programming with goto statement
-http://www.clifford.at/cfun/cliffdev/p261-knuth.pdf
+https://pic.plover.com/knuth-GOTO.pdf
 
-### [1977] John Backus: Can Programming Be Liberated from the von Neumann Style?
+### [1978] John Backus: Can Programming Be Liberated from the von Neumann Style?
 https://cse.msu.edu/~cse452/Readings/backus.pdf
 
 ### [1978] C. A. R. Hoare: Communicating Sequential Processes
@@ -20,6 +20,9 @@ http://spinroot.com/courses/summer/Papers/hoare_1978.pdf
 ### [1982] E.W. Dijkstra: Why numbering should start at zero (& why half-open intervals). (EWD831)
 http://www.cs.utexas.edu/users/EWD/ewd08xx/EWD831.PDF
 (anything by Dijkstra really: https://en.wikiquote.org/wiki/Edsger_W._Dijkstra)
+
+### [1988] Michael Stonebraker (ed.): Readings in Database Systems (The Red Book) — link to 5th edition (2015)
+http://www.redbook.io/pdf/redbook-5th-edition.pdf
 
 ### [1995] The Linux Bootdisk HOWTO
 https://tldp.org/HOWTO/Bootdisk-HOWTO/
