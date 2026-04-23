@@ -297,3 +297,15 @@ https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf
 ### [2017] Ashish Vaswani et al.: Attention Is All You Need (Transformers)
 https://arxiv.org/pdf/1706.03762
 
+### [2020] Jared Kaplan et al.: Scaling Laws for Neural Language Models
+https://arxiv.org/pdf/2001.08361
+
+### [2020] Tom Brown et al.: Language Models are Few-Shot Learners (GPT-3)
+https://arxiv.org/pdf/2005.14165
+
+### [2021] John Jumper et al.: Highly Accurate Protein Structure Prediction with AlphaFold
+https://www.nature.com/articles/s41586-021-03819-2.pdf
+
+### [2022] Long Ouyang et al.: Training Language Models to Follow Instructions with Human Feedback (InstructGPT / RLHF)
+https://arxiv.org/pdf/2203.02155
+
