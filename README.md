@@ -1,6 +1,15 @@
 # bookmarks
 Bookmarks to IT papers/articles worth reading more than once.
 
+### [1936] Alonzo Church: An Unsolvable Problem of Elementary Number Theory
+https://www.ics.uci.edu/~lopes/teaching/inf212W12/readings/church.pdf
+
+### [1936] Alan M. Turing: On Computable Numbers, with an Application to the Entscheidungsproblem
+https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
+
+### [1938] Claude E. Shannon: A Symbolic Analysis of Relay and Switching Circuits
+https://www.cs.virginia.edu/~evans/greatworks/shannon38.pdf
+
 ### [1943] Warren McCulloch & Walter Pitts: A Logical Calculus of the Ideas Immanent in Nervous Activity
 https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf
 
