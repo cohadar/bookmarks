@@ -59,6 +59,9 @@ https://www.cs.cmu.edu/~crary/819-f09/Hoare69.pdf
 ### [1970] E. F. Codd: A Relational Model of Data for Large Shared Data Banks
 https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf
 
+### [1971] Niklaus Wirth: Program Development by Stepwise Refinement
+http://sunnyday.mit.edu/16.355/wirth-refinement.html
+
 ### [1972] David Parnas: On the Criteria to Be Used in Decomposing Systems into Modules
 https://wstomv.win.tue.nl/edu/2ip30/references/criteria_for_modularization.pdf
 
@@ -77,8 +80,17 @@ https://dsf.berkeley.edu/cs262/unix.pdf
 ### [1974] Barbara Liskov & Stephen Zilles: Programming with Abstract Data Types
 https://ics.uci.edu/~jajones/INF102-S18/readings/13_liskov_adt.pdf
 
+### [1974] Vint Cerf & Robert Kahn: A Protocol for Packet Network Intercommunication
+https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf
+
 ### [1976] Whitfield Diffie & Martin Hellman: New Directions in Cryptography
 https://ee.stanford.edu/~hellman/publications/24.pdf
+
+### [1976] Robert M. Metcalfe & David R. Boggs: Ethernet: Distributed Packet Switching for Local Computer Networks
+https://www.cl.cam.ac.uk/teaching/2425/CompNet/files/p395-metcalfe.pdf
+
+### [1976] Peter Pin-Shan Chen: The Entity-Relationship Model — Toward a Unified View of Data
+https://bowringj.people.charleston.edu/classes/csci%20332/Chen1976.pdf
 
 ### [1978] Leslie Lamport: Time, Clocks, and the Ordering of Events in a Distributed System
 https://lamport.azurewebsites.net/pubs/time-clocks.pdf
@@ -91,6 +103,15 @@ http://spinroot.com/courses/summer/Papers/hoare_1978.pdf
 
 ### [1978] Rivest, Shamir, Adleman: A Method for Obtaining Digital Signatures and Public-Key Cryptosystems (RSA)
 https://people.csail.mit.edu/rivest/Rsapaper.pdf
+
+### [1978] Robin Milner: A Theory of Type Polymorphism in Programming
+https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/milner-type-polymorphism.pdf
+
+### [1978] Jim Gray: Notes on Data Base Operating Systems
+https://jimgray.azurewebsites.net/papers/DBOS.pdf
+
+### [1979] Kenneth E. Iverson: Notation as a Tool of Thought (Turing Award Lecture)
+https://www.jsoftware.com/papers/tot.htm
 
 ### [1981] Brian Kernighan: Why Pascal Is Not My Favorite Programming Language
 https://www.lysator.liu.se/c/bwk-on-pascal.html
