@@ -126,8 +126,20 @@ https://lamport.azurewebsites.net/pubs/byz.pdf
 ### [1983] Butler Lampson: Hints for Computer System Design
 https://bwlampson.site/33-Hints/Acrobat.pdf
 
+### [1983] Theo Haerder & Andreas Reuter: Principles of Transaction-Oriented Database Recovery (where the ACID acronym was coined)
+https://cs-people.bu.edu/mathan/reading-groups/papers-classics/recovery.pdf
+
 ### [1984] J. H. Saltzer, D. P. Reed, D. D. Clark: End-to-End Arguments in System Design
 https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf
+
+### [1984] Ken Thompson: Reflections on Trusting Trust (Turing Award Lecture)
+https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf
+
+### [1984] Donald E. Knuth: Literate Programming
+http://www.literateprogramming.com/knuthweb.pdf
+
+### [1984] Andrew D. Birrell & Bruce Jay Nelson: Implementing Remote Procedure Calls
+https://web.eecs.umich.edu/~mosharaf/Readings/RPC.pdf
 
 ### [1985] Michael J. Fischer, Nancy A. Lynch, Michael S. Paterson: Impossibility of Distributed Consensus with One Faulty Process (FLP)
 https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf
@@ -144,6 +156,9 @@ https://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf
 ### [1986] Fred Brooks: No Silver Bullet — Essence and Accident in Software Engineering
 https://worrydream.com/refs/Brooks_1986_-_No_Silver_Bullet.pdf
 
+### [1986] David Parnas & Paul Clements: A Rational Design Process: How and Why to Fake It
+https://www.cs.tufts.edu/~nr/cs257/archive/david-parnas/fake-it.pdf
+
 ### [1987] Barbara Liskov: Data Abstraction and Hierarchy (keynote introducing LSP)
 https://www.cs.tufts.edu/~nr/cs257/archive/barbara-liskov/data-abstraction-and-hierarchy.pdf
 
@@ -156,11 +171,26 @@ https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/clark88.pdf
 ### [1988] E. W. Dijkstra: On the cruelty of really teaching computing science (EWD1036)
 https://www.cs.utexas.edu/users/EWD/ewd10xx/EWD1036.PDF
 
+### [1988] David Patterson, Garth Gibson & Randy Katz: A Case for Redundant Arrays of Inexpensive Disks (RAID)
+https://www.cs.cmu.edu/~garth/RAIDpaper/Patterson88.pdf
+
 ### [1989] Rob Pike: Notes on Programming in C
 http://doc.cat-v.org/bell_labs/pikestyle
 
+### [1990] Tim Berners-Lee: Information Management: A Proposal (the original WWW proposal at CERN)
+https://www.w3.org/History/1989/proposal.html
+
+### [1990] William R. Cook: Object-Oriented Programming Versus Abstract Data Types
+https://www.cs.utexas.edu/~wcook/papers/OOPvsADT/CookOOPvsADT90.pdf
+
 ### [1991] David Goldberg: What Every Computer Scientist Should Know About Floating-Point Arithmetic
 https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf
+
+### [1994] Barbara Liskov & Jeannette Wing: A Behavioral Notion of Subtyping
+https://www.cs.cmu.edu/~wing/publications/LiskovWing94.pdf
+
+### [1994] L. Peter Deutsch et al.: The Eight Fallacies of Distributed Computing (as compiled and explained by Arnon Rotem-Gal-Oz)
+https://arnon.me/wp-content/uploads/Files/fallacies.pdf
 
 ### [1995] Philip Wadler: Monads for Functional Programming
 https://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf
@@ -171,8 +201,20 @@ https://tldp.org/HOWTO/Bootdisk-HOWTO/
 ### [1996] Patrick O'Neil, Edward Cheng, Dieter Gawlick, Elizabeth O'Neil: The Log-Structured Merge-Tree (LSM-Tree)
 https://www.cs.umb.edu/~poneil/lsmtree.pdf
 
+### [1996] John Ousterhout: Why Threads Are a Bad Idea (for most purposes)
+https://web.stanford.edu/~ouster/cgi-bin/papers/threads.pdf
+
+### [1996] C. A. R. Hoare: How Did Software Get So Reliable Without Proof?
+https://6826.csail.mit.edu/2020/papers/noproof.pdf
+
+### [1997] Eric S. Raymond: The Cathedral and the Bazaar
+http://catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/
+
 ### [1998] Leslie Lamport: The Part-Time Parliament (Paxos)
 https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf
+
+### [1998] Sergey Brin & Lawrence Page: The Anatomy of a Large-Scale Hypertextual Web Search Engine
+http://infolab.stanford.edu/pub/papers/google.pdf
 
 ### [1999] Erik Naggum: The Long, Painful History of Time
 https://naggum.no/lugm-time.html
