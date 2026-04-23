@@ -264,9 +264,36 @@ https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
 ### [2008] Satoshi Nakamoto: Bitcoin: A Peer-to-Peer Electronic Cash System
 https://bitcoin.org/bitcoin.pdf
 
+### [2011] Marc Shapiro, Nuno Preguiça, Carlos Baquero & Marek Zawirski: Conflict-Free Replicated Data Types (CRDTs)
+https://www.cs.tufts.edu/~nr/cs257/archive/marc-shapiro/CRDTs_SSS-2011.pdf
+
+### [2011] Jay Kreps, Neha Narkhede & Jun Rao: Kafka: a Distributed Messaging System for Log Processing
+https://notes.stephenholiday.com/Kafka.pdf
+
+### [2012] James C. Corbett et al.: Spanner: Google's Globally-Distributed Database
+https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf
+
+### [2012] Alex Krizhevsky, Ilya Sutskever & Geoffrey Hinton: ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)
+https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
+
+### [2013] Jeffrey Dean & Luiz André Barroso: The Tail at Scale
+https://www.barroso.org/publications/TheTailAtScale.pdf
+
+### [2013] Jay Kreps: The Log: What Every Software Engineer Should Know About Real-Time Data's Unifying Abstraction
+https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+
 ### [2014] Torturing Databases for Fun and Profit
 https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-zheng_mai.pdf
 
 ### [2014] Diego Ongaro & John Ousterhout: In Search of an Understandable Consensus Algorithm (Raft)
 https://raft.github.io/raft.pdf
+
+### [2015] Pat Helland: Immutability Changes Everything
+https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf
+
+### [2016] David Silver et al.: Mastering the Game of Go with Deep Neural Networks and Tree Search (AlphaGo)
+https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf
+
+### [2017] Ashish Vaswani et al.: Attention Is All You Need (Transformers)
+https://arxiv.org/pdf/1706.03762
 
