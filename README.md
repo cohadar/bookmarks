@@ -45,6 +45,9 @@ https://worrydream.com/refs/Brooks_1986_-_No_Silver_Bullet.pdf
 ### [1988] Michael Stonebraker (ed.): Readings in Database Systems (The Red Book) — link to 5th edition (2015)
 http://www.redbook.io/pdf/redbook-5th-edition.pdf
 
+### [1991] David Goldberg: What Every Computer Scientist Should Know About Floating-Point Arithmetic
+https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf
+
 ### [1995] The Linux Bootdisk HOWTO
 https://tldp.org/HOWTO/Bootdisk-HOWTO/
 
