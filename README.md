@@ -309,3 +309,15 @@ https://www.nature.com/articles/s41586-021-03819-2.pdf
 ### [2022] Long Ouyang et al.: Training Language Models to Follow Instructions with Human Feedback (InstructGPT / RLHF)
 https://arxiv.org/pdf/2203.02155
 
+### [2022] Jason Wei et al.: Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+https://arxiv.org/pdf/2201.11903
+
+### [2022] Jordan Hoffmann et al.: Training Compute-Optimal Large Language Models (Chinchilla)
+https://arxiv.org/pdf/2203.15556
+
+### [2023] Rafael Rafailov et al.: Direct Preference Optimization — Your Language Model is Secretly a Reward Model (DPO)
+https://arxiv.org/pdf/2305.18290
+
+### [2024] Evan Hubinger et al.: Sleeper Agents — Training Deceptive LLMs That Persist Through Safety Training
+https://arxiv.org/pdf/2401.05566
+
