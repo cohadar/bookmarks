@@ -138,17 +138,11 @@ https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-s
 ### [2004] Jeffrey Dean & Sanjay Ghemawat: MapReduce: Simplified Data Processing on Large Clusters
 https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf
 
-### [2005] Your Coffee Shop Doesn't Use Two-Phase Commit (queueing and async)
-http://www.enterpriseintegrationpatterns.com/docs/IEEE_Software_Design_2PC.pdf
-
 ### [2007] Giuseppe DeCandia et al.: Dynamo: Amazon's Highly Available Key-value Store
 https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
 
 ### [2008] Satoshi Nakamoto: Bitcoin: A Peer-to-Peer Electronic Cash System
 https://bitcoin.org/bitcoin.pdf
-
-### [2009] Werner Vogels: Eventually Consistent
-https://www.allthingsdistributed.com/2008/12/eventually_consistent.html
 
 ### [2014] Torturing Databases for Fun and Profit
 https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-zheng_mai.pdf
