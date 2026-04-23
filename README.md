@@ -1,8 +1,17 @@
 # bookmarks
 Bookmarks to IT papers/articles worth reading more than once.
 
+### [1943] Warren McCulloch & Walter Pitts: A Logical Calculus of the Ideas Immanent in Nervous Activity
+https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf
+
+### [1945] John von Neumann: First Draft of a Report on the EDVAC
+https://web.mit.edu/STS.035/www/PDFs/edvac.pdf
+
 ### [1948] C.E. SHANNON: A Mathematical Theory of Communication
 http://worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Communication.pdf
+
+### [1949] C.E. Shannon: Communication Theory of Secrecy Systems
+https://archive.org/download/bstj28-4-656/bstj28-4-656.pdf
 
 ### [1960] John McCarthy: Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I
 http://jmc.stanford.edu/articles/recursive/recursive.pdf
