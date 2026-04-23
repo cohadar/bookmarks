@@ -5,7 +5,7 @@ Bookmarks to IT papers/articles worth reading more than once.
 http://worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Communication.pdf
 
 ### [1960] John McCarthy: Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I
-http://www-formal.stanford.edu/jmc/recursive.pdf
+http://jmc.stanford.edu/articles/recursive/recursive.pdf
 
 ### [1968] Ken Thompson: Programming Techniques: Regular expression search algorithm
 https://www.oilshell.org/archive/Thompson-1968.pdf
@@ -33,7 +33,7 @@ https://pic.plover.com/knuth-GOTO.pdf
 https://dsf.berkeley.edu/cs262/unix.pdf
 
 ### [1974] Barbara Liskov & Stephen Zilles: Programming with Abstract Data Types
-https://web.cs.wpi.edu/~cs3013/c07/papers/Liskov-Zilles-AbstractDataTypes.pdf
+https://ics.uci.edu/~jajones/INF102-S18/readings/13_liskov_adt.pdf
 
 ### [1976] Whitfield Diffie & Martin Hellman: New Directions in Cryptography
 https://ee.stanford.edu/~hellman/publications/24.pdf
@@ -148,7 +148,7 @@ https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
 https://bitcoin.org/bitcoin.pdf
 
 ### [2009] Werner Vogels: Eventually Consistent
-https://queue.acm.org/detail.cfm?id=1466448
+https://www.allthingsdistributed.com/2008/12/eventually_consistent.html
 
 ### [2014] Torturing Databases for Fun and Profit
 https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-zheng_mai.pdf
