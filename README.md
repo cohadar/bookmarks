@@ -1,6 +1,12 @@
 # bookmarks
 Bookmarks to IT papers/articles worth reading more than once.
 
+### [1930] Jacques Herbrand: Recherches sur la théorie de la démonstration (Paris PhD thesis; Herbrand's theorem — foundational for unification and automated theorem proving; French original)
+http://www.numdam.org/item/THESE_1930__110__1_0.pdf
+
+### [1931] Kurt Gödel: Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I (German original)
+https://www.w-k-essler.de/pdfs/goedel.pdf
+
 ### [1936] Alonzo Church: An Unsolvable Problem of Elementary Number Theory
 https://www.ics.uci.edu/~lopes/teaching/inf212W12/readings/church.pdf
 
@@ -9,6 +15,9 @@ https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 
 ### [1938] Claude E. Shannon: A Symbolic Analysis of Relay and Switching Circuits
 https://www.cs.virginia.edu/~evans/greatworks/shannon38.pdf
+
+### [1939] Л. В. Канторович: Математические методы организации и планирования производства (founding paper of linear programming; Russian original, reprinted in the 2011 Novosibirsk Selected Works)
+https://crystalbook.ru/wp-content/uploads/2021/05/%D0%9A%D0%B0%D0%BD%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87-%D0%9B.%D0%92.-%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D1%81%D0%BE%D1%87%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F.-%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%BE-%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B.pdf
 
 ### [1943] Warren McCulloch & Walter Pitts: A Logical Calculus of the Ideas Immanent in Nervous Activity
 https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf
@@ -37,8 +46,14 @@ http://jmc.stanford.edu/articles/recursive/recursive.pdf
 ### [1962] C. A. R. Hoare: Quicksort
 https://www.cs.ox.ac.uk/files/6226/H2006%20-%20Historic%20Quicksort.pdf
 
+### [1962] Carl Adam Petri: Kommunikation mit Automaten (Bonn PhD dissertation introducing Petri Nets; German original)
+https://edoc.sub.uni-hamburg.de/informatik/volltexte/2011/160/pdf/diss_petri.pdf
+
 ### [1965] E. W. Dijkstra: Solution of a Problem in Concurrent Programming Control
 https://rust-class.org/static/classes/class19/dijkstra.pdf
+
+### [1965] А. Н. Колмогоров: Три подхода к определению понятия «количество информации» (founding paper of Kolmogorov complexity; Russian original, Проблемы передачи информации)
+https://www.mathnet.ru/php/getFT.phtml?jrnid=ppi&paperid=68&what=fullt&option_lang=rus
 
 ### [1966] Peter J. Landin: The Next 700 Programming Languages
 https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/landin-next-700.pdf
@@ -70,6 +85,15 @@ https://infolab.usc.edu/csci585/Spring2010/den_ar/indexing.pdf
 
 ### [1972] E. W. Dijkstra: The Humble Programmer (Turing Award Lecture, EWD340)
 https://www.cs.utexas.edu/users/EWD/ewd03xx/EWD340.PDF
+
+### [1972] Jean-Yves Girard: Interprétation fonctionnelle et élimination des coupures de l'arithmétique d'ordre supérieur (Paris VII thèse de doctorat d'état introducing System F; French original)
+https://girard.perso.math.cnrs.fr/These.pdf
+
+### [1973] Alain Colmerauer, Henry Kanoui, Philippe Roussel, Robert Pasero: Un système de communication homme-machine en français (Luminy research report — origin of Prolog; French original)
+http://alain.colmerauer.free.fr/alcol/ArchivesPublications/HommeMachineFr/HoMa.pdf
+
+### [1973] Л. А. Левин: Универсальные задачи перебора (independent Russian-side discovery of NP-completeness; Russian original, Проблемы передачи информации)
+https://www.mathnet.ru/php/getFT.phtml?jrnid=ppi&paperid=914&what=fullt&option_lang=rus
 
 ### [1974] Donald E. Knuth: Structured programming with goto statement
 https://pic.plover.com/knuth-GOTO.pdf
