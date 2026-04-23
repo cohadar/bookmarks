@@ -237,11 +237,26 @@ https://www.comp.nus.edu.sg/~gilbert/pubs/BrewersConjecture-SigAct.pdf
 ### [2003] The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)
 https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
 
+### [2003] Rob Pike: UTF-8 History
+https://doc.cat-v.org/bell_labs/utf-8_history
+
 ### [2003] Sanjay Ghemawat, Howard Gobioff, Shun-Tak Leung: The Google File System
 https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf
 
+### [2003] Joe Armstrong: Making Reliable Distributed Systems in the Presence of Software Errors (PhD dissertation introducing Erlang's "let it crash" philosophy)
+https://erlang.org/download/armstrong_thesis_2003.pdf
+
 ### [2004] Jeffrey Dean & Sanjay Ghemawat: MapReduce: Simplified Data Processing on Large Clusters
 https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf
+
+### [2006] Fay Chang, Jeffrey Dean, Sanjay Ghemawat et al.: Bigtable: A Distributed Storage System for Structured Data
+https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
+
+### [2007] Pat Helland: Life Beyond Distributed Transactions: An Apostate's Opinion
+https://www.cidrdb.org/cidr2007/papers/cidr07p15.pdf
+
+### [2007] James Hamilton: On Designing and Deploying Internet-Scale Services
+https://www.usenix.org/legacy/events/lisa07/tech/full_papers/hamilton/hamilton.pdf
 
 ### [2007] Giuseppe DeCandia et al.: Dynamo: Amazon's Highly Available Key-value Store
 https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
