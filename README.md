@@ -2,7 +2,8 @@
 Bookmarks to IT papers/articles worth reading more than once.
 
 ### [1930] Jacques Herbrand: Recherches sur la théorie de la démonstration (Paris PhD thesis; Herbrand's theorem — foundational for unification and automated theorem proving; French original)
-http://www.numdam.org/item/THESE_1930__110__1_0.pdf
+- http://www.numdam.org/item/THESE_1930__110__1_0.pdf
+- https://archive.org/details/logicalwritingse0000jacq
 
 ### [1931] Kurt Gödel: Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I (German original)
 https://www.w-k-essler.de/pdfs/goedel.pdf
